@@ -1,4 +1,4 @@
 # HackUTD 9, 2022
 
-Exercise quality estimation with visual pose estimation
+Exercise quality detection using visual pose estimation
 
